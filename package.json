@@ -1,0 +1,15 @@
+{
+  "name": "@swipeone-org/liquid-tag-replacer",
+  "version": "1.0.1",
+  "description": "Replace liquid-style tags in strings with values from objects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swipeone",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
