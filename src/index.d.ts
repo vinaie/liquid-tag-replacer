@@ -1,0 +1,1 @@
+declare module '@swipeone-org/liquid-tag-replacer'; 
